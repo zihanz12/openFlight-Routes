@@ -1,14 +1,7 @@
-# CS225 Final Project <br/>
-
-## Summary <br/>
-This is UIUC CS225 Final project, which use Openflight dataset (airports.dat and routes.dat) to construct graph and implemented three algorithms: BFS, Prim, A*<br/>
-Final Presentation Youtube Link: https://youtu.be/4umtDhr_A68 <br/> 
 
 ## Constributors <br/>
 **Qirun Tang** (NetID: qirunt2)<br/>
 **Zihan Zhou** (NetID: zihanz12)<br/>
-**Jiateng Wang** (NetID: jiateng3)<br/>
-**Ruoqi Zuo** (NetID: ruoqiz3)<br/>
 
 ## Main Code location: <br/>
 - Located in main folder with path /root/ruoqiz3-zihanz12-qirunt2-jiateng3<br/>
