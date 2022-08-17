@@ -12,7 +12,6 @@
 - Graph.h Graph.cpp (BFS, Prim, A star)<br/>
 
 ## Dataset location: <br/>
-- data folder with path /root/ruoqiz3-zihanz12-qirunt2-jiateng3/data<br/>
 - airports_original.dat is main airports dataset we used.<br/>
 - routes.data is the main routes dataset we used.<br/>
 
