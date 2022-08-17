@@ -4,7 +4,7 @@
 **Zihan Zhou** (NetID: zihanz12)<br/>
 
 ## Main Code location: <br/>
-- Located in main folder with path /root/ruoqiz3-zihanz12-qirunt2-jiateng3<br/>
+
 
 ## Main Function files location: <br/>
 - Airports.h Airports.cpp (Airports class)<br/>
